@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "751553379257",
+    "project_id": "miniebay-556ce",
+    "storage_bucket": "miniebay-556ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751553379257:android:3e43285516dd6446c81468",
+        "android_client_info": {
+          "package_name": "com.miniebay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751553379257-r71742936i3amhtoungplte1ajn3vckl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.miniebay",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "751553379257-e9oc3o392odthr2bn5p08k2d634em19l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEvcdUttgE60LJBpJlvZmR5euxT-mbyX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751553379257-e9oc3o392odthr2bn5p08k2d634em19l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
